@@ -17,3 +17,4 @@ s = (a+b+c+d)/2
 K = m.sqrt((s-a)*(s-b)*(s-c)*(s-d))
 
 print(K)
+
