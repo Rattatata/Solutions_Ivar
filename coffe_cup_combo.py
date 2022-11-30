@@ -13,7 +13,7 @@ coffeindex = input()
 
 counter = 0
 coffees = 0
-prev_coffe = 0
+
 
 for idx in coffeindex:
     
